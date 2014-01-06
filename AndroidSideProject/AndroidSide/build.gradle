@@ -24,4 +24,5 @@ android {
 
 dependencies {
 	compile 'com.android.support:appcompat-v7:19.0.0'
+	compile files('libs/ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar')
 }
